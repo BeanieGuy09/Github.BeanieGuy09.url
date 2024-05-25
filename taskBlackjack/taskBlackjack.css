@@ -1,0 +1,12 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+
+  text-align: center;
+  font-family: 'Arial';
+  background: #13730c;
+  color: #e0e4f0;
+}
