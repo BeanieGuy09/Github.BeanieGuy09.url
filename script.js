@@ -1,4 +1,4 @@
-const myArray = ["taskWebsite/taskWebsite.html", "taskJob/taskJog.html", "taskSleep/taskSleep.html"];
+const myArray = ["taskWebsite/taskWebsite.html", "taskJog/taskJog.html", "taskSleep/taskSleep.html","taskRice/taskRice.html"];
 
 // Function to pick a random item from the array
 function getRandomSideQuest() {
